@@ -134,5 +134,5 @@
 ---
 
 <div align="center">
-  <sub>Сделано с ♥️ от <a href="https://github.com/qwez-source">Qwez</a> и <a href="https://github.com/Vokich"></sub>
+  <sub>Сделано с ♥️ от <a href="https://github.com/qwez-source">Qwez</a> и <a href="https://github.com/Vokich">Vokich</a></sub>
 </div>
